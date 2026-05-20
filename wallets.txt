@@ -1,3 +1,0 @@
-# wallets.txt - address yang sudah di-resolve dari username
-0x5743bcbf9d8231977cc0a4fecbd01adb5e9bf0f6 tim24.6840
-0x2ac3e344a80e6d3bc733b051662f7ee6792a76f9 wayawe.3489
